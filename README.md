@@ -1,4 +1,4 @@
-Car Rental Website 🚗
+Car Rental Website 🚗 <br>
 A Car Rental web application built using the MERN stack (MongoDB, Express.js, React, Node.js). Users can browse and rent cars, with login credentials securely stored in MongoDB.
 
 📋 Features
@@ -12,7 +12,7 @@ A Car Rental web application built using the MERN stack (MongoDB, Express.js, Re
 
 ⚡ Responsive UI built with React
 
-🛠 Tech Stack
+🛠 Tech Stack <br>
 Frontend: React.js
 
 Backend: Node.js, Express.js
