@@ -74,10 +74,6 @@ car-rental-website/
 │   └── package.json
 │
 └── README.md
-🔐 Security
-Passwords are hashed before being stored in MongoDB.
-
-Sensitive information is managed via .env files.
 
 🚀 Future Improvements
 🏷 Payment Gateway Integration
@@ -93,7 +89,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 📧 Contact
-Your Name - aakashkumarsingh824301@example.com
+Email - aakashkumarsingh824301@example.com
 
 GitHub: aakash-kumar-singh
 
